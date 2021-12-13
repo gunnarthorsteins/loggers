@@ -1,6 +1,6 @@
 # Loggers
 
-A hobby project from a few years back when I was getting into OOP in Python. Actually liked how it turned out used it at my old workplace for a while. In the interim I discovered Notion and migrated this sort of stuff over to there.
+A hobby project from a few years back when I was getting into OOP in Python. Actually liked how it turned out used so it at my old workplace for a while. In the interim I discovered Notion and migrated this sort of stuff over to there.
 
 ### High Level Description
 
